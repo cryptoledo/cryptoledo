@@ -4,7 +4,7 @@
 
 ### Founder · AI Sync System Inc. · Building the Conscience for AI Agents
 
-[![a16z Speedrun - applied](https://img.shields.io/badge/a16z_Speedrun-Founder-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=white)](https://a16z.com/speedrun)
+
 [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA_Inception-Member_2026-76b900?style=for-the-badge&logo=nvidia&logoColor=white)](https://nvidia.com/startups)
 [![Patent Pending](https://img.shields.io/badge/USPTO_%2364%2F065%2C108-Patent_Pending-0066cc?style=for-the-badge&logo=gov.uk&logoColor=white)](https://malse.dev)
 [![Lovable Diamond](https://img.shields.io/badge/Lovable-Diamond_Builder-b9f2ff?style=for-the-badge&logo=diamond&logoColor=000000)](https://lovable.dev)
