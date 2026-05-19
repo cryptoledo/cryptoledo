@@ -9,6 +9,11 @@
 [![Patent Pending](https://img.shields.io/badge/USPTO_%2364%2F065%2C108-Patent_Pending-0066cc?style=for-the-badge&logo=gov.uk&logoColor=white)](https://malse.dev)
 [![Lovable Diamond](https://img.shields.io/badge/Lovable-Diamond_Builder-b9f2ff?style=for-the-badge&logo=diamond&logoColor=000000)](https://lovable.dev)
 
+[![AWS Activate](https://img.shields.io/badge/AWS_Activate-$5K_Credits-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/activate)
+[![Google for Startups](https://img.shields.io/badge/Google_for_Startups-Cloud_Program-4285F4?style=flat-square&logo=google&logoColor=white)](https://cloud.google.com/startup)
+[![Microsoft for Startups](https://img.shields.io/badge/Microsoft_for_Startups-$5K_Azure_Credits-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://startups.microsoft.com)
+[![Notion for Startups](https://img.shields.io/badge/Notion_for_Startups-Unlimited_AI-000000?style=flat-square&logo=notion&logoColor=white)](https://notion.so/startups)
+
 [![Gemini Certified](https://img.shields.io/badge/Google-Gemini_Certified_2025-4285F4?style=flat-square&logo=google&logoColor=white)](https://cloud.google.com)
 [![Anthropic Academy](https://img.shields.io/badge/Anthropic_Academy-Claude_101_%2B_Claude_Code_101-cc785c?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![Databricks](https://img.shields.io/badge/Databricks-GenAI_Fundamentals_2024-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://databricks.com)
@@ -80,6 +85,23 @@ Four AI agents — Sales, Marketing, Support, Operations — running in parallel
 
 ---
 
+## Startup Programs
+
+> Accepted into every major cloud and AI startup program — multi-cloud from day one.
+
+| Program | Benefit | Status |
+|---------|---------|--------|
+| **a16z Speedrun** | Founder cohort · Andreessen Horowitz | ✅ Active 2026 |
+| **NVIDIA Inception** | GPU credits · Capital Connect · NIM access | ✅ Active 2026 |
+| **Google for Startups** | Cloud Program · Approved | ✅ Active 2026 |
+| **AWS Activate** | $5,000 in AWS credits (expires Apr 2027) | ✅ Active |
+| **Microsoft for Startups** | $5,000 in Azure credits + Azure OpenAI + technical guidance | ✅ Active |
+| **Notion for Startups** | Unlimited Notion AI + Notion Plus | ✅ Active |
+
+**Combined cloud compute runway: $10K+ confirmed · Google Cloud TBD · NVIDIA GPU credits up to $162K**
+
+---
+
 ## Stack
 
 **AI / Inference**
@@ -90,10 +112,10 @@ Four AI agents — Sales, Marketing, Support, Operations — running in parallel
 ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76b900?style=flat-square&logo=nvidia&logoColor=white)
 
 **Infrastructure**
-![Google Cloud](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite_FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_+_Ed25519-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Protocols**
 ![MCP](https://img.shields.io/badge/MCP-Anthropic-cc785c?style=flat-square)
@@ -112,6 +134,9 @@ Four AI agents — Sales, Marketing, Support, Operations — running in parallel
 |---------|-----------|------|
 | **a16z** | Speedrun Founder | 2026 |
 | **NVIDIA** | Inception Member | 2026 |
+| **Google for Startups** | Cloud Program — Approved | 2026 |
+| **AWS** | Activate — $5K Credits | 2026 |
+| **Microsoft for Startups** | Founders Hub — $5K Azure Credits | 2025 |
 | **Anthropic Academy** | Claude 101 · Claude Code 101 | 2026 |
 | **Google** | Gemini Certified (expires 2028) | 2025 |
 | **Google Cloud** | Intro to Generative AI · Intro to Image Generation | 2024 |
