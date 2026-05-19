@@ -156,7 +156,7 @@ Four AI agents — Sales, Marketing, Support, Operations — running in parallel
 
 <div align="center">
 
-**[malse.dev](https://malse.dev)** · **[ai-sync.app](https://ai-sync.app)** · **[legal@ai-sync.app](mailto:legal@ai-sync.app)**
+**[malse.dev](https://malse.dev)** · **[ai-sync.app](https://ai-sync.app)** · **[founder@ai-sync.app](mailto:founder@ai-sync.app)**
 
 *"NVIDIA accelerates AI agents. COGNIS·NEXUS makes autonomous execution accountable."*
 
